@@ -5,6 +5,8 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import com.example.splashscreensample.databinding.FragmentHomeBinding
 
+//remember to remove splash fragment from navigation back stack and also on boardind
+
 
 class HomeFragment : Fragment(R.layout.fragment_home) {
 
